@@ -1,0 +1,14 @@
+export PS1='[\u@\h \W(admin-sardina4)]\$ '
+export OS_PROJECT_ID=500d9a474e164ab0aa20f5517208d1f0
+export OS_AUTH_TYPE=password
+export OS_PROJECT_DOMAIN_NAME=Default
+export OS_USER_DOMAIN_NAME=Default
+export OS_PROJECT_NAME=admin
+export OS_USERNAME=admin
+export OS_PASSWORD=ILAFzcsFqQ7V0bxh
+export OS_AUTH_URL=http://sardina4.radcom.co.il/identity/v3/
+export OS_REGION_NAME=RegionOne
+export OS_IDENTITY_API_VERSION=3
+export OS_IMAGE_API_VERSION=2
+export OS_INTERFACE=public
+export OS_ENDPOINT_TYPE=publicURL
